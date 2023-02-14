@@ -31,11 +31,11 @@ Pig is a simple dice game first described in print in John Scarne in 1945. Playe
 - CSS
 - Vanilla JavaScript
 
-![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/03-Bankist-Account/project-preview-account.png?raw=true)
 ![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/04-Bankist-Webpage/img/project-preview-website.png?raw=true)
+![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/03-Bankist-Account/project-preview-account.png?raw=true)
 
-## [Bankist Account (Live)](#)
 ## [Bankist WebPage (Live)](#)
+## [Bankist Account (Live)](#)
 
 Bankist is a fictional and minimalistic online banking application. It is a project to practice DOM manipulation and user interaction. Bankist has an option to log in to the account and use different functionalities, almost like in an actual bank!
 
