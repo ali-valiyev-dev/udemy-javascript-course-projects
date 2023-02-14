@@ -6,8 +6,8 @@
 
 # Projects that I have completed throughout the course:
 
-![](01-Guess-My-Number\project-preview.png)
-![](01-Guess-My-Number\project-preview-won.png)
+![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/01-Guess-My-Number/project-preview.png?raw=true)
+![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/01-Guess-My-Number/project-preview-won.png?raw=true)
 
 ## [Guess My Number (Live)](#)
 
@@ -18,8 +18,8 @@ This is a simple guessing game where a user is supposed to guess a number betwee
 - HTML
 - CSS
 - Vanilla JavaScript
-#
-![](02-Pig-Game\project-preview.png)
+
+![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/02-Pig-Game/project-preview.png?raw=true)
 
 ## [Pig Game (Live)](#)
 
@@ -30,9 +30,9 @@ Pig is a simple dice game first described in print in John Scarne in 1945. Playe
 - HTML
 - CSS
 - Vanilla JavaScript
-#
-![](03-Bankist-Account\project-preview-account.png)
-![](04-Bankist-Webpage\img\project-preview-website.png)
+
+![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/03-Bankist-Account/project-preview-account.png?raw=true)
+![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/04-Bankist-Webpage/img/project-preview-website.png?raw=true)
 
 ## [Bankist Account (Live)](#)
 ## [Bankist WebPage (Live)](#)
@@ -65,8 +65,8 @@ This is the template login details to use the bank functionality. The project do
 - HTML
 - CSS
 - Vanilla JavaScript
-#
-![](05-Mapty\project-preview.png)
+
+![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/05-Mapty/project-preview.png?raw=true)
 
 ## [Mapty (Live)](#)
 
@@ -83,7 +83,7 @@ If the user reloads the page, all the data will be saved.
 - Vanilla JavaScript
 - Leaflet API
 #
-![](06-Forkify\src\img\project-preview.png)
+![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/06-Forkify/src/img/project-preview.png?raw=true)
 
 ## [Forkify (Live)](#)
 
@@ -96,4 +96,3 @@ Forkify is a vanilla JavaScript application that interacts with the Forkify API 
 - Vanilla JavaScript
 - Webpack
 - NPM
-#
