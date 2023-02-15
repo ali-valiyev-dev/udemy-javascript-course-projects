@@ -9,7 +9,7 @@
 ![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/01-Guess-My-Number/project-preview.png?raw=true)
 ![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/01-Guess-My-Number/project-preview-won.png?raw=true)
 
-## [Guess My Number (Live)](#)
+## [Guess My Number (Live)](https://completed-javascript-projects-udemy.netlify.app/01-guess-my-number/)
 
 This is a simple guessing game where a user is supposed to guess a number between 0 and 20 in a maximum of 20 attempts. The game will end after 20 attempts and if the player failed to guess the number, and then he loses the game.
 
@@ -21,7 +21,7 @@ This is a simple guessing game where a user is supposed to guess a number betwee
 
 ![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/02-Pig-Game/project-preview.png?raw=true)
 
-## [Pig Game (Live)](#)
+## [Pig Game (Live)](https://completed-javascript-projects-udemy.netlify.app/02-pig-game/)
 
 Pig is a simple dice game first described in print in John Scarne in 1945. Players take turns to roll a single die as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.
 
@@ -34,8 +34,8 @@ Pig is a simple dice game first described in print in John Scarne in 1945. Playe
 ![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/04-Bankist-Webpage/img/project-preview-website.png?raw=true)
 ![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/03-Bankist-Account/project-preview-account.png?raw=true)
 
-## [Bankist WebPage (Live)](#)
-## [Bankist Account (Live)](#)
+## [Bankist WebPage (Live)](https://completed-javascript-projects-udemy.netlify.app/04-bankist-webpage/)
+## [Bankist Account (Live)](https://completed-javascript-projects-udemy.netlify.app/03-bankist-account/)
 
 Bankist is a fictional and minimalistic online banking application. It is a project to practice DOM manipulation and user interaction. Bankist has an option to log in to the account and use different functionalities, almost like in an actual bank!
 
@@ -68,7 +68,7 @@ This is the template login details to use the bank functionality. The project do
 
 ![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/05-Mapty/project-preview.png?raw=true)
 
-## [Mapty (Live)](#)
+## [Mapty (Live)](https://completed-javascript-projects-udemy.netlify.app/05-mapty/)
 
 Mapty is a map application made with Vanilla JavaScript to store workouts like running and cycling.
 
@@ -85,7 +85,7 @@ If the user reloads the page, all the data will be saved.
 #
 ![](https://github.com/alivaliyevpro/udemy-javascript-course-projects/blob/main/06-Forkify/src/img/project-preview.png?raw=true)
 
-## [Forkify (Live)](#)
+## [Forkify (Live)](https://completed-javascript-project-udemy.netlify.app/)
 
 Forkify is a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data. The user can search for a specific recipe, and save to a favorites list via local storage. The user can easily increase or decrease servings as per his need and can view detailed directions.
 
